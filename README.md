@@ -1,8 +1,5 @@
 <hr>
 <p align="center">
-    <a target="_blank" href="https://join.skype.com/invite/YE3Jyx31x2Eg">
-        <img width="150" src="f_5475d3dee857f97e.png"/>  
-    </a>
     <h3 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h3>
     <p align="center">
         ~~~ Thanks for reading ~~~<br>
