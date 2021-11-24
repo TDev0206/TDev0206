@@ -1,8 +1,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Solidity%20Expert;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
 </p>
-<hr>
-<p align="center">
+<hr><div>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<p align="left">
     <h3 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h3>
     <p align="center">
         ~~~ Thanks for reading ~~~<br>
@@ -12,6 +13,7 @@
         Being a talented and passionate developer with FULL-TIME AVAILABILITY, I love to work for a LONG-TERM relationship with reasonable clients.
     </p>
 </p>
+</div>
 <hr>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
