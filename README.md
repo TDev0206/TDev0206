@@ -17,7 +17,7 @@
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 <table>
     <tr>
-<img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="100"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="100"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="100"></td>
