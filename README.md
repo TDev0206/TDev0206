@@ -21,7 +21,7 @@
         ~~~ Thanks for reading ~~~<br>
         Professional working attitude and an eye for details are my most notable attributes.<br>
         I am a hardworking, highly proficient IT professional with 5 years’ experience and a real passion for web application development and blockchain development.<br>
-        By working 5years, I've mastered web app and got extensive and deep knowledge of web and blockchain fields.<br>
+        By working 5years, I've mastered web app and got extensive and deep knowledge of web and I've rich experience blockchain development.<br> I have rich experience in smart contract, solidity, dapp, NFT marketplace, pancakeswap, web3, solidity, eth.js, uniswap, erc-20, erc-721, erc-1155 token , bep-20, bep-721 token, Binance chain for 4 years over.<br>
         Being a talented and passionate developer with FULL-TIME AVAILABILITY, I love to work for a LONG-TERM relationship with reasonable clients.
     </p>
 </p>
