@@ -25,7 +25,7 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="100"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="100"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="100"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="100"></td>
+      <td><img src="https://camo.githubusercontent.com/17676112fcdb3423d375ed3c77a013ab80ca29486595016aaa64c03d2b58eb08/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f616e64726f69642d6f726967696e616c2d776f72646d61726b2e737667" width="100"></td>
       <td><img src="https://camo.githubusercontent.com/e6e7e4e720421db277c77244ec2cdbc925f09ee2555a718b061f7063ed8c6799/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f66697265626173652e706e67" width="100"></td>
 </tr>
     <tr>
