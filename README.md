@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://join.skype.com/invite/zw5cFMjcX351">
+  <a href="https://join.skype.com/invite/K0Z6Qhwdg4fF">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp; 
-  <a href="mailto:enginechair1959@gmail.com">
+  <a href="mailto:talentlucky0816@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
